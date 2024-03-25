@@ -166,8 +166,6 @@ HINT: See the lecture 16 for details <br>
 HINT: To insert a string value, use 'single quotations'
 
 -- SQLBook: Code
-
--- SQLBook: Code
 -- Write your own code
 DROP TABLE IF EXISTS lap_times
 
